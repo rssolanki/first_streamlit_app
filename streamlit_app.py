@@ -74,4 +74,4 @@ if streamlit.button('Add a fruit to the list'):
 
 streamlit.write('Thanks for adding ', add_my_fruit)
 
-my_cur.execute("insert into fruit_load_list values('from streamlit')");
+#my_cur.execute("insert into fruit_load_list values('from streamlit')");
